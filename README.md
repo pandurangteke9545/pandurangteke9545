@@ -2,13 +2,11 @@
   Hi there! 👋 I'm <span style="color:#FF5733;">Pandurang Teke</span> 
 </h1>
 
-
-
 ---
 ### 🚀 About Me:
 - 💼 Open to freelance work or collaborating on interesting projects
 - 💬 Ask me about anything tech-related, I love helping out!
-- 📫 Reach me via: [arpan.9932176726@gmail.com](mailto:arpan.9932176726@gmail.com)
+- 📫 Reach me via: [pandurnagteke95@gmail.com](mailto:pandurnagteke95@gmail.com)
   
 -[*My Portfolio*]() 
 
@@ -46,34 +44,30 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan-creator&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Arpan-creator&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pandurnagteke9545&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=pandurnagteke9545&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 ### 📈 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-creator&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandurnagteke9545&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 ### Pinned Projects
 
-[![Scheduler App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=light&show_owner=true&v=1)](https://github.com/Arpan-creator/Equality-Experts_024)
-[![Learner Hub](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=light&show_owner=true&v=1)](https://github.com/Arpan-creator/IBM-Innovators_045-)
-
-[![Health-and-Wellness-App](https://github-readme-stats.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=light&show_owner=true&v=1)](https://github.com/sagarrathod7568/Health-and-Wellness-App)
-
+[![Weater Application](https://github-readme-stats.vercel.app/api/pin/?username=pandurnagteke9545&repo=Equality-Experts_024&theme=light&show_owner=true&v=1)](https://github.com/pandurangteke9545/Weather)
 
 ---
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pandurangteke9545&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 <!-- Total Viewers Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpan-creator&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pandurangteke9545&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -82,10 +76,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpan-kundu-ak7691/">
+  <a href="www.linkedin.com/in/pandurang-teke-956654318">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/ArpanKundu91">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
