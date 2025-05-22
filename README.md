@@ -1,27 +1,32 @@
 <h1 align="center">
-  Hi there! 👋 I'm <span style="color:#FF5733;">Pandurang Teke</span> 
+  Hi there! 👋 I'm <span style="color:#FF5733;"><b>Pandurang Teke</b></span>
 </h1>
 
----
-### 🚀 About Me:
-- 💼 Open to freelance work or collaborating on interesting projects
-- 💬 Ask me about anything tech-related, I love helping out!
-- 📫 Reach me via: [pandurnagteke95@gmail.com](mailto:pandurnagteke95@gmail.com)
-  
--[*My Portfolio*]() 
+<p align="center"><i>Welcome to my GitHub — Let’s build something amazing together!</i></p>
 
+---
+
+### 🚀 About Me:
+- 💼 Open to freelance work or collaborating on interesting projects  
+- 💬 Ask me about anything tech-related, I love helping out!  
+- 📫 Reach me via: [pandurangteke95@gmail.com](mailto:pandurangteke95@gmail.com)  
+- 🌐 [My Portfolio](https://your-portfolio-link.com)
+
+---
 
 ## 🧑‍💻 Experience
 
-*QICPIC INNOVATION PVT. LTD* — Full Stack Developer  
-📅 Dec 2024 – Present
+**QICPIC INNOVATION PVT. LTD** — Full Stack Developer  
+📅 *Dec 2024 – Present*
 
-- Built scalable backend APIs for the CAP platform using *Node.js, **Express.js, and **PostgreSQL*.
-- Integrated payments, WebSocket-based real-time updates, and *Kafka* for inter-service messaging.
-- Developed dashboards (*DAP, **Trainer Panel) using **React.js* and *Redux*.
-- Deployed services on *AWS* and implemented secure image handling with encryption/decryption.
-- Collaborated with frontend developers, designers, and product managers to ensure seamless UX and feature delivery.
+- Built scalable backend APIs for the CAP platform using **Node.js**, **Express.js**, and **PostgreSQL**.  
+- Integrated payments, WebSocket-based real-time updates, and **Kafka** for inter-service messaging.  
+- Developed dashboards (**DAP**, **Trainer Panel**) using **React.js** and **Redux**.  
+- Deployed services on **AWS** and implemented secure image handling with encryption/decryption.  
+- Collaborated with frontend developers, designers, and product managers to ensure seamless UX and feature delivery.  
+
 ---
+
 ### 🛠 Tech Stack:
 
 <p align="center">
@@ -39,27 +44,31 @@
   <img src="https://img.shields.io/badge/-REST%20API-25A0E0?logo=api&logoColor=white&style=flat-square" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandurnagteke9545&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=pandurnagteke9545&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pandurangteke9545&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=pandurangteke9545&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
+
 ### 📈 Top Languages:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandurnagteke9545&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandurangteke9545&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-### Pinned Projects
 
-[![Weater Application](https://github-readme-stats.vercel.app/api/pin/?username=pandurnagteke9545&repo=Equality-Experts_024&theme=light&show_owner=true&v=1)](https://github.com/pandurangteke9545/Weather)
+### 📌 Pinned Projects
+
+[![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=pandurangteke9545&repo=Weather&theme=light&show_owner=true)](https://github.com/pandurangteke9545/Weather)
 
 ---
+
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pandurangteke9545&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
@@ -71,12 +80,16 @@
 </p>
 
 ---
-<p align="center">
-  <i>"Let's build something amazing together!"</i>
-</p>
+
+### 📚 Currently Learning:
+- TypeScript
+- Docker & CI/CD
+- System Design Patterns
+
+---
 
 <p align="center">
-  <a href="www.linkedin.com/in/pandurang-teke-956654318">
+  <a href="https://www.linkedin.com/in/pandurang-teke-956654318" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
 </p>
