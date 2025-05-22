@@ -1,16 +1,8 @@
 <h1 align="center">
-  Hi there! 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span> 
+  Hi there! 👋 I'm <span style="color:#FF5733;">Pandurang Teke</span> 
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Lifelong+Learner+%26+Problem+Solver;" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  
-   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="width: 375px; max-width: 900px; height: 375px; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
-   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
-</p>
 
 ---
 ### 🚀 About Me:
@@ -18,7 +10,7 @@
 - 💬 Ask me about anything tech-related, I love helping out!
 - 📫 Reach me via: [arpan.9932176726@gmail.com](mailto:arpan.9932176726@gmail.com)
   
--[*My Portfolio*](https://arpan-creator.github.io/myPortfolio) 
+-[*My Portfolio*]() 
 
 
 ## 🧑‍💻 Experience
