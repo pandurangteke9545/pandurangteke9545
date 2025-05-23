@@ -10,7 +10,7 @@
 - 💼 Open to freelance work or collaborating on interesting projects  
 - 💬 Ask me about anything tech-related, I love helping out!  
 - 📫 Reach me via: [pandurangteke95@gmail.com](mailto:pandurangteke95@gmail.com)  
-- 🌐 [My Portfolio](https://your-portfolio-link.com)
+- 🌐 [My Portfolio]: [https://68303722d649d8f357602e31--fluffy-sprinkles-11011e.netlify.app/](https://68303722d649d8f357602e31--fluffy-sprinkles-11011e.netlify.app/)
 
 ---
 
