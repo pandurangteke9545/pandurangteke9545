@@ -81,13 +81,6 @@
 
 ---
 
-### 📚 Currently Learning:
-- TypeScript
-- Docker & CI/CD
-- System Design Patterns
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pandurang-teke-956654318" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
