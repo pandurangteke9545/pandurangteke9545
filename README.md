@@ -66,7 +66,8 @@
 ### 📌 Pinned Projects
 
 [![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=pandurangteke9545&repo=Weather&theme=light&show_owner=true)](https://github.com/pandurangteke9545/Weather)
-[![Online Mart](https://github-readme-stats.vercel.app/api/pin/?username=pandurangteke9545&repo=Weather&theme=light&show_owner=true)](https://github.com/pandurangteke9545/ecommerce)
+
+[![Online Mart](https://github-readme-stats.vercel.app/api/pin/?username=pandurangteke9545&repo=ecommerce&theme=light&show_owner=true)](https://github.com/pandurangteke9545/ecommerce)
 
 ---
 
