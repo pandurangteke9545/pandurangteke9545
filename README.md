@@ -17,7 +17,7 @@
 ## 🧑‍💻 Experience
 
 **QICPIC INNOVATION PVT. LTD** — Full Stack Developer  
-📅 *Dec 2024 – Present*
+📅 *Dec 2024 – May 2025*
 
 - Built scalable backend APIs for the CAP platform using **Node.js**, **Express.js**, and **PostgreSQL**.  
 - Integrated payments, WebSocket-based real-time updates, and **Kafka** for inter-service messaging.  
